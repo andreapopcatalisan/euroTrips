@@ -6,9 +6,5 @@ This is a simple shinyapp that shows places I've been to in Europe. I made a spr
 library(leaflet)
 library(shiny)
 library(sp)
+library(rsconnect)
 ```
-## Current Status
-The app is currently hosted [here](https://c-weave.shinyapps.io/eurotravels/).
-
-## Screenshot
-![](images/map.png)
