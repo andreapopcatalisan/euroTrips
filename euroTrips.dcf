@@ -1,0 +1,10 @@
+name: eurotravels
+title:
+username:
+account: c-weave
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2233090
+bundleId: 3151368
+url: https://c-weave.shinyapps.io/eurotravels/
+when: 1589542937.20527
